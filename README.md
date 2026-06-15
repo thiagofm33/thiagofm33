@@ -40,20 +40,20 @@ I'm a developer who is passionate about stories, such as those from movies, book
 
 
 <div>
-<img src="https://github-readme-stats.vercel.app/api?username=thiagofm33&show_icons=true&theme=moltack" alt="GitHub Stats" title="GitHub Stats" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=thiagofm33&layout=compact&theme=moltack" alt="Top Languages" title="Top Languages" />
+<img src="https://github-readme-stats.vercel.app/api?username=thiagofm33&show_icons=true&theme=chartreuse-dark" alt="GitHub Stats" title="GitHub Stats" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=thiagofm33&layout=compact&theme=chartreuse-dark" alt="Top Languages" title="Top Languages" />
 </div>
 
 ---
 
 ## 🌟 Featured Projects
 
-<a href="https://github.com/thiagofm33/usd-brl-currency-exchanges"><img src="https://github-readme-stats.vercel.app/api/pin/?username=thiagofm33&repo=usd-brl-currency-exchanges&theme=moltack&description_lines_count=3" /></a>
-<a href="https://github.com/thiagofm33/thiagofm33.github.io"><img src="https://github-readme-stats.vercel.app/api/pin/?username=thiagofm33&repo=thiagofm33.github.io&theme=moltack&description_lines_count=3" /></a>
-<a href="https://github.com/thiagofm33/toys_from_hell"><img src="https://github-readme-stats.vercel.app/api/pin/?username=thiagofm33&repo=toys_from_hell&theme=moltack&description_lines_count=3" /></a>
-<a href="https://github.com/thiagofm33/the-weather-forecast-app"><img src="https://github-readme-stats.vercel.app/api/pin/?username=thiagofm33&repo=the-weather-forecast-app&theme=moltack&description_lines_count=3" /></a>
-<a href="https://github.com/FIAPBGPT/fiap-tech-challenge-hackaton-mobile"><img src="https://github-readme-stats.vercel.app/api/pin/?username=FIAPBGPT&repo=fiap-tech-challenge-hackaton-mobile&theme=moltack&description_lines_count=3" /></a>
-<a href="https://github.com/FIAPBGPT/fiap-tech-challenge-hackaton-web-shell"><img src="https://github-readme-stats.vercel.app/api/pin/?username=FIAPBGPT&repo=fiap-tech-challenge-hackaton-web-shell&theme=moltack&description_lines_count=3" /></a>
+<a href="https://github.com/thiagofm33/usd-brl-currency-exchanges"><img src="https://github-readme-stats.vercel.app/api/pin/?username=thiagofm33&repo=usd-brl-currency-exchanges&theme=chartreuse-dark&description_lines_count=3" /></a>
+<a href="https://github.com/thiagofm33/thiagofm33.github.io"><img src="https://github-readme-stats.vercel.app/api/pin/?username=thiagofm33&repo=thiagofm33.github.io&theme=chartreuse-dark&description_lines_count=3" /></a>
+<a href="https://github.com/thiagofm33/toys_from_hell"><img src="https://github-readme-stats.vercel.app/api/pin/?username=thiagofm33&repo=toys_from_hell&theme=chartreuse-dark&description_lines_count=3" /></a>
+<a href="https://github.com/thiagofm33/the-weather-forecast-app"><img src="https://github-readme-stats.vercel.app/api/pin/?username=thiagofm33&repo=the-weather-forecast-app&theme=chartreuse-dark&description_lines_count=3" /></a>
+<a href="https://github.com/FIAPBGPT/fiap-tech-challenge-hackaton-mobile"><img src="https://github-readme-stats.vercel.app/api/pin/?username=FIAPBGPT&repo=fiap-tech-challenge-hackaton-mobile&theme=chartreuse-dark&description_lines_count=3" /></a>
+<a href="https://github.com/FIAPBGPT/fiap-tech-challenge-hackaton-web-shell"><img src="https://github-readme-stats.vercel.app/api/pin/?username=FIAPBGPT&repo=fiap-tech-challenge-hackaton-web-shell&theme=chartreuse-dark&description_lines_count=3" /></a>
 
 
 ---
