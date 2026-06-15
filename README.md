@@ -40,20 +40,20 @@ I'm a developer who is passionate about stories, such as those from movies, book
 
 
 <div>
-<img src="https://github-readme-stats.vercel.app/api?username=thiagofm33&show_icons=true&theme=monokai&hide_border=true" alt="GitHub Stats" title="GitHub Stats" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=thiagofm33&layout=compact&theme=monokai&hide_border=true" alt="Top Languages" title="Top Languages" />
+<img src="https://github-readme-stats.vercel.app/api?username=thiagofm33&show_icons=true&theme=moltack" alt="GitHub Stats" title="GitHub Stats" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=thiagofm33&layout=compact&theme=moltack" alt="Top Languages" title="Top Languages" />
 </div>
 
 ---
 
 ## 🌟 Featured Projects
 
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=thiagofm33&repo=usd-brl-currency-exchanges&theme=monokai&description_lines_count=3" />
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=thiagofm33&repo=thiagofm33.github.io&theme=monokai&description_lines_count=3" />
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=thiagofm33&repo=toys_from_hell&theme=monokai&description_lines_count=3" />
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=thiagofm33&repo=the-weather-forecast-app&theme=monokai&description_lines_count=3" />
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=FIAPBGPT&repo=fiap-tech-challenge-hackaton-mobile&theme=monokai&description_lines_count=3" />
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=FIAPBGPT&repo=fiap-tech-challenge-hackaton-web-shell&theme=monokai&description_lines_count=3" />
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=thiagofm33&repo=usd-brl-currency-exchanges&theme=moltack&description_lines_count=3" />
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=thiagofm33&repo=thiagofm33.github.io&theme=moltack&description_lines_count=3" />
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=thiagofm33&repo=toys_from_hell&theme=moltack&description_lines_count=3" />
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=thiagofm33&repo=the-weather-forecast-app&theme=moltack&description_lines_count=3" />
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=FIAPBGPT&repo=fiap-tech-challenge-hackaton-mobile&theme=moltack&description_lines_count=3" />
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=FIAPBGPT&repo=fiap-tech-challenge-hackaton-web-shell&theme=moltack&description_lines_count=3" />
 
 
 ---
