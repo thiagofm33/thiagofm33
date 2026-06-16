@@ -1,4 +1,4 @@
-# Hey there 👋
+# Hey there! 👋🏾
 
 I'm a developer who is passionate about stories, such as those from movies, books, and games; and I believe that code can also tell stories.
 
