@@ -38,23 +38,21 @@ I'm a developer who is passionate about stories, such as those from movies, book
 
 ## 📊 GitHub Stats
 
-
-<div>
-<img src="https://github-readme-stats.vercel.app/api?username=thiagofm33&show_icons=true&theme=chartreuse-dark" alt="GitHub Stats" title="GitHub Stats" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=thiagofm33&layout=compact&theme=chartreuse-dark" alt="Top Languages" title="Top Languages" />
+<div align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=thiagofm33&theme=chartreuse_dark" alt="GitHub Stats" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=thiagofm33&theme=chartreuse_dark" alt="Top Languages" />
 </div>
 
 ---
 
 ## 🌟 Featured Projects
 
-<a href="https://github.com/thiagofm33/usd-brl-currency-exchanges"><img src="https://github-readme-stats.vercel.app/api/pin/?username=thiagofm33&repo=usd-brl-currency-exchanges&theme=chartreuse-dark" alt="usd-brl-currency-exchanges" /></a>
-<a href="https://github.com/thiagofm33/thiagofm33.github.io"><img src="https://github-readme-stats.vercel.app/api/pin/?username=thiagofm33&repo=thiagofm33.github.io&theme=chartreuse-dark" alt="thiagofm33.github.io" /></a>
-<a href="https://github.com/thiagofm33/toys_from_hell"><img src="https://github-readme-stats.vercel.app/api/pin/?username=thiagofm33&repo=toys_from_hell&theme=chartreuse-dark" alt="toys_from_hell" /></a>
-<a href="https://github.com/thiagofm33/the-weather-forecast-app"><img src="https://github-readme-stats.vercel.app/api/pin/?username=thiagofm33&repo=the-weather-forecast-app&theme=chartreuse-dark" alt="the-weather-forecast-app" /></a>
-<a href="https://github.com/FIAPBGPT/fiap-tech-challenge-hackaton-mobile"><img src="https://github-readme-stats.vercel.app/api/pin/?username=FIAPBGPT&repo=fiap-tech-challenge-hackaton-mobile&theme=chartreuse-dark" alt="fiap-tech-challenge-hackaton-mobile" /></a>
-<a href="https://github.com/FIAPBGPT/fiap-tech-challenge-hackaton-web-shell"><img src="https://github-readme-stats.vercel.app/api/pin/?username=FIAPBGPT&repo=fiap-tech-challenge-hackaton-web-shell&theme=chartreuse-dark" alt="fiap-tech-challenge-hackaton-web-shell" /></a>
-
+[![usd-brl-currency-exchanges](https://img.shields.io/badge/Repo-usd--brl--currency--exchanges-181717?logo=github)](https://github.com/thiagofm33/usd-brl-currency-exchanges)
+[![thiagofm33.github.io](https://img.shields.io/badge/Repo-thiagofm33.github.io-181717?logo=github)](https://github.com/thiagofm33/thiagofm33.github.io)
+[![toys_from_hell](https://img.shields.io/badge/Repo-toys_from_hell-181717?logo=github)](https://github.com/thiagofm33/toys_from_hell)
+[![the-weather-forecast-app](https://img.shields.io/badge/Repo-the--weather--forecast--app-181717?logo=github)](https://github.com/thiagofm33/the-weather-forecast-app)
+[![fiap-tech-challenge-hackaton-mobile](https://img.shields.io/badge/Repo-fiap--tech--challenge--hackaton--mobile-181717?logo=github)](https://github.com/FIAPBGPT/fiap-tech-challenge-hackaton-mobile)
+[![fiap-tech-challenge-hackaton-web-shell](https://img.shields.io/badge/Repo-fiap--tech--challenge--hackaton--web--shell-181717?logo=github)](https://github.com/FIAPBGPT/fiap-tech-challenge-hackaton-web-shell)
 
 ---
 
